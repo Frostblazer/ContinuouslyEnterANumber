@@ -1,0 +1,13 @@
+C:\Users\Shawn\source\repos\ContinuouslyEnterANumber\bin\Debug\netcoreapp3.1\ContinuouslyEnterANumber.exe
+C:\Users\Shawn\source\repos\ContinuouslyEnterANumber\bin\Debug\netcoreapp3.1\ContinuouslyEnterANumber.deps.json
+C:\Users\Shawn\source\repos\ContinuouslyEnterANumber\bin\Debug\netcoreapp3.1\ContinuouslyEnterANumber.runtimeconfig.json
+C:\Users\Shawn\source\repos\ContinuouslyEnterANumber\bin\Debug\netcoreapp3.1\ContinuouslyEnterANumber.runtimeconfig.dev.json
+C:\Users\Shawn\source\repos\ContinuouslyEnterANumber\bin\Debug\netcoreapp3.1\ContinuouslyEnterANumber.dll
+C:\Users\Shawn\source\repos\ContinuouslyEnterANumber\bin\Debug\netcoreapp3.1\ContinuouslyEnterANumber.pdb
+C:\Users\Shawn\source\repos\ContinuouslyEnterANumber\obj\Debug\netcoreapp3.1\ContinuouslyEnterANumber.csprojAssemblyReference.cache
+C:\Users\Shawn\source\repos\ContinuouslyEnterANumber\obj\Debug\netcoreapp3.1\ContinuouslyEnterANumber.AssemblyInfoInputs.cache
+C:\Users\Shawn\source\repos\ContinuouslyEnterANumber\obj\Debug\netcoreapp3.1\ContinuouslyEnterANumber.AssemblyInfo.cs
+C:\Users\Shawn\source\repos\ContinuouslyEnterANumber\obj\Debug\netcoreapp3.1\ContinuouslyEnterANumber.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\source\repos\ContinuouslyEnterANumber\obj\Debug\netcoreapp3.1\ContinuouslyEnterANumber.dll
+C:\Users\Shawn\source\repos\ContinuouslyEnterANumber\obj\Debug\netcoreapp3.1\ContinuouslyEnterANumber.pdb
+C:\Users\Shawn\source\repos\ContinuouslyEnterANumber\obj\Debug\netcoreapp3.1\ContinuouslyEnterANumber.genruntimeconfig.cache

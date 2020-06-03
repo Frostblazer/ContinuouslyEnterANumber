@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContinuouslyEnterANumber", "ContinuouslyEnterANumber.csproj", "{4E8BD7BF-5460-4364-A188-E8AA61B6F017}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E8BD7BF-5460-4364-A188-E8AA61B6F017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8BD7BF-5460-4364-A188-E8AA61B6F017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8BD7BF-5460-4364-A188-E8AA61B6F017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8BD7BF-5460-4364-A188-E8AA61B6F017}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E9C5D7B-4D84-4A2A-91D9-7B41F0BD63C7}
+	EndGlobalSection
+EndGlobal
